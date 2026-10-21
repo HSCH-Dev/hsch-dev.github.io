@@ -38,5 +38,5 @@ If this policy changes, this page will be updated and the "Last updated" date re
 ## 7\. Contact
 
 If you have questions, please contact us through this form:
-\[Contact form](https://forms.gle/7eDF14fBDh8ZxACEA)
+[Inquiry form](https://forms.gle/7eDF14fBDh8ZxACEA)
 
