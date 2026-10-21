@@ -38,5 +38,5 @@ Remind Until Done（以下「本アプリ」）は、Windows用のオフライ�
 ## 7\. お問い合わせ
 
 ご質問は、次のフォームからご連絡ください。
-\[問い合わせフォーム](https://forms.gle/7eDF14fBDh8ZxACEA)
+[お問い合わせフォーム](https://forms.gle/7eDF14fBDh8ZxACEA)
 
