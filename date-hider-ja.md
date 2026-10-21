@@ -53,4 +53,4 @@
 
 本ポリシーや本拡張機能についてのお問い合わせは、[お問い合わせフォーム](https://forms.gle/AtkgY8GKxDKKBPxd9)からお願いします。フォームに入力された内容は、お問い合わせへの対応にのみ使用します。
 
-[English version](date-hider-en)
+[English version](date-hider-en.md)
