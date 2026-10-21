@@ -53,4 +53,4 @@ We may update this policy when needed. When we do, we will change the "Last upda
 
 If you have questions about this policy or the Extension, please use the [inquiry form](https://forms.gle/AtkgY8GKxDKKBPxd9). What you enter in the form is used only to respond to your inquiry.
 
-[日本語版](date-hider-ja.html)
+[日本語版](date-hider-ja.md)
