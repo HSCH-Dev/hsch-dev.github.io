@@ -28,8 +28,8 @@ The App does not require administrator rights and does not access your camera, m
 
 ## 5\. Deleting your data
 
-* You can delete reminders in the App. You can select and delete completion history on the History screen.
-* If you installed the App from the Microsoft Store, uninstalling it also removes the stored data.
+You can delete reminders in the App. You can select and delete completion history on the History screen.
+If you installed the App from the Microsoft Store, uninstalling it also removes the stored data.
 
 ## 6\. Changes to this policy
 
