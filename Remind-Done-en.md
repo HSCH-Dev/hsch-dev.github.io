@@ -1,6 +1,6 @@
 # Privacy Policy – Remind Until Done
 
-Last updated: October 21, 2026
+Last updated: October 22, 2026
 
 Remind Until Done (the "App") is an offline-only reminder app for Windows. This policy explains what information the App handles.
 
@@ -12,9 +12,11 @@ The App does not collect or transmit any information to the developer or to any 
 
 The following information is stored only on your PC:
 
-* Reminder text, text color, font size, and order
-* Completion history (completed items and their dates and times)
-* Settings (language, notification interval, paused state, background color, startup option, window position and size)
+
+
+Reminder text, text color, font size, order, completion history, language, notification status, notification sound on/off, background color, startup option, and window position and size
+
+
 
 This data is kept in storage specific to your Windows user account and is not shared with other users or any outside party.
 
@@ -37,6 +39,5 @@ If this policy changes, this page will be updated and the "Last updated" date re
 
 ## 7\. Contact
 
-If you have questions, please contact us through this form:
-[Inquiry form](https://forms.gle/7eDF14fBDh8ZxACEA)
+For inquiries, please use the [Inquiry form](https://forms.gle/7eDF14fBDh8ZxACEA). Information entered in the form is used only to respond to your inquiry.
 
