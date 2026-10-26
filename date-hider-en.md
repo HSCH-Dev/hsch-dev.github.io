@@ -6,7 +6,7 @@ Last updated: October 26, 2026
 
 ## 1\. Information we use
 
-To decide whether to hide an upload date, the Extension reads the upload-date text shown on YouTube ([www.youtube.com](https://www.youtube.com)) pages. This text is used only on your device. It is never stored or sent anywhere.
+To decide whether to hide an upload date, the Extension reads the upload-date text shown on YouTube [www.youtube.com](https://www.youtube.com) pages. This text is used only on your device. It is never stored or sent anywhere.
 
 The Extension also saves the following settings, which you choose, in the browser's extension storage (chrome.storage.local):
 
