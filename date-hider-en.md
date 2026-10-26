@@ -1,4 +1,4 @@
-﻿# Date Hider for YouTube Privacy Policy
+﻿# Privacy Policy - Date Hider for YouTube
 
 Last updated: October 26, 2026
 
@@ -55,3 +55,4 @@ We use the information we obtain only to reply to and contact you about your inq
 Inquiry information is kept for as long as needed to respond to the inquiry or investigate a bug, and is deleted when it is no longer needed. If you would like it deleted, please contact us through the inquiry form. We cannot delete the information if we cannot identify it, and we cannot notify you of the result if you did not provide a reply-to email address.
 
 [日本語版](date-hider-ja.md)
+
