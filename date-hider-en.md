@@ -40,7 +40,7 @@ Settings are stored only in your browser. They are overwritten when you change t
 The Extension uses only the minimum permissions it needs:
 
 * storage: to save the settings described above.
-* Access to `https://www.youtube.com/*`: to change how upload dates are displayed on YouTube pages.
+* Access to [https://www.youtube.com/\*](https://www.youtube.com/): to change how upload dates are displayed on YouTube pages.
 
 ## 6\. Changes to this policy
 
