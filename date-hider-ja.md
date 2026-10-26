@@ -40,7 +40,7 @@
 本拡張機能は、必要最小限の次の権限のみを使用します。
 
 * storage：上記の設定を保存するために使用します。
-* `https://www.youtube.com/*` へのアクセス：YouTube のページ上で投稿日の表示を変更するために使用します。
+* [https://www.youtube.com/\*](https://www.youtube.com/) へのアクセス：YouTube のページ上で投稿日の表示を変更するために使用します。
 
 ## 6\. ポリシーの変更
 
