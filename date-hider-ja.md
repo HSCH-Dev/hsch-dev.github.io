@@ -1,4 +1,4 @@
-﻿# Date Hider for YouTube プライバシーポリシー
+﻿# プライバシーポリシー - Date Hider for YouTube
 
 最終更新日：2026年10月26日
 
